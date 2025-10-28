@@ -5,8 +5,6 @@ description: This resource contains a project on non-parametric classification o
 file: /courses/mas-622j-pattern-recognition-and-analysis-fall-2006/75236bfe21e5edbcc56382e997859a3f_chang_report.pdf
 file_size: 259986
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

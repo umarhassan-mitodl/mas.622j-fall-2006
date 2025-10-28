@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains a list of topics covered, grading criteria, late
   policy, collaboration/academic honesty, attendance.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

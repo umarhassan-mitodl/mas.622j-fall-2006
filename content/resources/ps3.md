@@ -4,8 +4,6 @@ description: This resource contains problem statements for the course.
 file: /courses/mas-622j-pattern-recognition-and-analysis-fall-2006/7eec4867ab844fc907f1f73839ddc918_ps3.pdf
 file_size: 107906
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

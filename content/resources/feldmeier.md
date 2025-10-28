@@ -5,8 +5,6 @@ description: This resource contains a project on predictors for human temperatur
 file: /courses/mas-622j-pattern-recognition-and-analysis-fall-2006/9b7aaeb4d3c941db7dc1fb5752aa0413_feldmeier.pdf
 file_size: 7531
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

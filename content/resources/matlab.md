@@ -4,8 +4,6 @@ description: This resource contains problem statements.
 file: /courses/mas-622j-pattern-recognition-and-analysis-fall-2006/bdbb6c70a8bd05c032dbdb31483dc48f_matlab.pdf
 file_size: 40551
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: This resource is a supporting file.
 file: /courses/mas-622j-pattern-recognition-and-analysis-fall-2006/3a0f2a01894b62355e660fb968c8d23e_class1trainingB.dat
 file_size: 2270
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

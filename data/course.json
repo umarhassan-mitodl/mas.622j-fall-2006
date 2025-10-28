@@ -34,7 +34,6 @@
     "website": "mas-622j-pattern-recognition-and-analysis-fall-2006"
   },
   "course_title": "Pattern Recognition and Analysis",
-  "hide_download": true,
   "course_description": "This class deals with the fundamentals of characterizing and recognizing patterns and features of interest in numerical data. We discuss the basic tools and theory for signal understanding problems with applications to user modeling, affect recognition, speech recognition and understanding, computer vision, physiological analysis, and more. We also cover decision theory, statistical classification, maximum likelihood and Bayesian estimation, nonparametric methods, unsupervised learning and clustering. Additional topics on machine and human learning from active research are also talked about in the class.\n",
   "department_numbers": [
     "MAS",
@@ -46,7 +45,6 @@
     "content": "4d1ac348-2118-1d34-67fb-74d88e081aab",
     "website": "mas-622j-pattern-recognition-and-analysis-fall-2006"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Projects",

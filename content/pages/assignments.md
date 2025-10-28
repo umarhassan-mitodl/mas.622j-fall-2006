@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains six problem sets along with their corresponding
   data sets.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
